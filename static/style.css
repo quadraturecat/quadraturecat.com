@@ -1,0 +1,29 @@
+body {
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.company {
+  text-align: center;
+}
+
+.logo {
+  max-width: 160px;
+  margin: 20px auto;
+}
+
+.page {
+  max-width: 800px;
+  margin: 40px auto;
+}
+
+.gallery {
+  display: flex;
+  flex-direction: row;
+}
+
+.gallery img {
+  width: 50%;
+}
